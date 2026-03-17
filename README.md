@@ -1,8 +1,4 @@
-# React + Vite
+Projeto que fiz com meus amigos no meu TCC em 2023
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A ideia era conseguir detectar capacetes dos alunos do SENAI para eles conseguirem entrar nas aulas em segurança
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
